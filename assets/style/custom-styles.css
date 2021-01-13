@@ -1,31 +1,29 @@
-
-
-.contact__item{
+.contact__item {
     display: flex;
     align-items: center;
 }
 
-.contact__item img{
+.contact__item img {
     width: 20px;
     height: 20px;
     margin-right: 5px;
 }
 
-.img__icon{
+.img__icon {
     width: 30px;
     height: 30px;
     margin-right: 20px;
 }
 
-.img__animated{
+.img__animated {
     height: 100px;
 }
 
-.list-item__date{
+.list-item__date {
     display: flex;
 }
 
-.accent{
+.accent {
     font-weight: 900;
-    color: #191970
+    color: #191970;
 }
